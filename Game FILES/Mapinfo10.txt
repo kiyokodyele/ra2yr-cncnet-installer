@@ -1,0 +1,47 @@
+** RED ALERT 2 MAP PACK #10
+** RELEASED 4/20/2001
+** COPYRIGHT 2001 ELECTRONIC ARTS INC.  ALL RIGHTS RESERVED.
+
+(Note this is a revised version of Map Pack 10. The previous version contained an error when unpacking the files to your Hard Drive. We apologize
+for any inconvenience this may have caused)
+
+** INSTRUCTIONS **
+
+MAP PACK DOWNLOAD DIRECTIONS
+
+Step 1:  Double click on the free Map Pack of your choice.
+
+Step 2:  Choose "Save this program to disk". Click "Okay".
+
+Step 3:  Save the zipped file to C:\Westwood\RA2.  This is the default directory to which RA2 was originally installed. If you chose to install to a different directory, choose that one.
+
+Step 4:  Go to C:\Westwood\RA2 and locate the RA2MAPPAC file.  Double click it.
+
+Step 5:  Left click on "OK" and the click on "Unzip".  This will uncompress the file you just downloaded. Make sure you extract it into the RA2 directory.  If you chose the default install directory then this will be  \WESTWOOD\RA2\
+
+Step 6:  The process is complete. The new maps should automatically appear in Skirmish/Westwood Online/Local Area Network modes.
+
+
+******************************
+
+The Bermuda Triangle
+
+(2-6 Player Map)
+Resource: Moderate (gems and gold)
+Environmental Conditions: Urban, Tropics
+File: bermuda.mmx
+
+Features: Bermuda is a unique in that random weather storms appear on various parts of the map. Also, many tall buildings and houses surround each of the player starting positions making it tough place structures out in the open.  
+
+Tip: Garrison buildings quickly and destroy various civilian buildings to make room for your own.
+
+Meat Grinder
+
+(2 Player Map)
+Resource: Heavy (oil derricks, gems and gold)
+Environmental Conditions: Island
+File: grinder.mmx
+
+Features: Meat Grinder is a fast paced map with good defense posts for base protection. The map is also rich in oil and gems making huge ground and naval battles possible.
+
+Tip: Capture as many oil derricks as possible; territory will be precious in controlling your opponent and thwarting his forces.

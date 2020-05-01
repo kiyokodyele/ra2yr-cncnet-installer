@@ -1,0 +1,44 @@
+** RED ALERT 2 MAP PACK #12
+** RELEASED 5/18/2001
+** COPYRIGHT 2001 ELECTRONIC ARTS INC.  ALL RIGHTS RESERVED.
+
+** INSTRUCTIONS **
+
+MAP PACK DOWNLOAD DIRECTIONS
+
+Step 1:  Double click on the free Map Pack of your choice.
+
+Step 2:  Choose "Save this program to disk". Click "Okay".
+
+Step 3:  Save the zipped file to C:\Westwood\RA2.  This is the default directory to which RA2 was originally installed. If you chose to install to a different directory, choose that one.
+
+Step 4:  Go to C:\Westwood\RA2 and locate the RA2MAPPAC file.  Double click it.
+
+Step 5:  Left click on "OK" and the click on "Unzip".  This will uncompress the file you just downloaded. Make sure you extract it into the RA2 directory.  If you chose the default install directory then this will be  \WESTWOOD\RA2\
+
+Step 6:  The process is complete. The new maps should automatically appear in Skirmish/Westwood Online/Local Area Network modes.
+
+
+******************************
+
+Loaded Barrel
+
+(2 Player Map)
+Resource: Light (oil derricks and gold)
+Environmental Conditions: Urban
+File: barrel.mmx
+
+Features: A fast paced two-player map that is limited in resources but abundant with many buildings to garrison.
+
+Tip: Capture the oil derricks quickly; they'll be your primary source of income. 
+
+Sea of Isolation
+
+(4 Player Team Map)
+Resource: Heavy (oil derricks, gems, and gold)
+Environmental Conditions: Temperate
+File: seaofiso.mmx
+
+Features: A great team based map rich with resources. A giant lake separates both sides from quick rushes 
+
+Tip: Garrison the buildings and oil derricks on the bridge connecting both sides. It will help to establish a foothold on the map.

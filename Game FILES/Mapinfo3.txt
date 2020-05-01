@@ -1,0 +1,51 @@
+** RED ALERT 2 MAP PACK #3
+** RELEASED 01/12/2001
+** COPYRIGHT 2001 ELECTRONIC ARTS INC.  ALL RIGHTS RESERVED.
+
+** INSTRUCTIONS **
+
+Simply copy the 3 maps included in this zip into the directory in which you installed Red Alert 2.  (You should find several other .MMX files in this directory as well.)  After installation, load Red Alert 2 and check the list of maps available to you in multiplayer.
+
+******************************
+
+Kaliforna
+
+(2-6 Player Map)
+Resource: Heavy (Oil derricks, gems, and gold)
+Environmental Conditions: Urban
+File: Kaliforn.mmx
+
+Features:
+Kalifornia is designed for Urban combat with many roadways, office buildings, and civilian houses. Oil derricks are in abundance along with gem fields.
+
+Tip: 
+Secure the perimeter quickly; garrisoned buildings will be key to gaining territory on your opponent.
+
+Breakaway
+
+(2-3 Player Map)
+Resource: Moderate (Oil derricks, gems, and gold)
+Environmental Conditions: Snow, Island
+File: Break.mmx
+
+Features: 
+Breakaway is a large land mass surrounded by water. In the center of the map players will find an airfield waiting to be captured.
+
+Tip: 
+Civilian houses are scattered around the map. By garrisoning these buildings you can catch your opponent of guard and destroy any scouts he may have running about.
+
+Hail Mary
+
+(2 Player Map)
+Resource: Moderate (Oil derricks and gold)
+Environmental Conditions: Urban (Sports Stadium)
+File: Hailmary.mmx
+
+Features: 
+This special map is setup like a Sports stadium with opponents starting at opposite ends. To make things more exciting the crowd will cheer on the combating players until there is one winner.
+
+Tip:
+In the surrounding parking lot players will find oil derricks waiting to be captured. This is a small map so be sure to plan accordingly.
+
+
+

@@ -1,0 +1,46 @@
+** RED ALERT 2 MAP PACK #2
+** RELEASED 12/22/2000
+** COPYRIGHT 2000 ELECTRONIC ARTS INC.  ALL RIGHTS RESERVED.
+
+** INSTRUCTIONS **
+
+Simply copy the 3 maps included in this zip into the directory in which you installed Red Alert 2.  (You should find several other .MMX files in this directory as well.)  After installation, load Red Alert 2 and check the list of maps available to you in multiplayer.
+
+******************************
+
+Head for the Hills
+
+(2-4 Player Map)
+Resource: Heavy (oil derricks, gems, and gold)
+Environmental Conditions: High Desert
+File: Hills.mmx
+
+Features: 
+This map is set in a high desert region. Players will find a vast amount of wealth located in the center of the map. Bridges connect various plateaus that hold many oil derricks and gems.
+
+Tip: Move engineers quickly to the center of the map where are the oil derricks are located, and then blow the bridges.  
+
+Lost Lake
+(2-4 Player Map)
+Resource: Very heavy (oil derricks, gems, and gold)
+Environmental Conditions: Semi-Tropical
+File: Lostlake.mmx
+
+Features:
+A huge lake is found circling a good portion of the map. The island located in the center contains a vast cash of oil derricks and gems. Four bridges located next to each players starting point are the only access to the vast riches found on the island.
+
+Tip: A Naval fleet is a must if you want to ensure ultimate victory. Be sure to storm the island fast as your opponents will do the same.
+
+Happy Trails 
+Westwood's Holiday map for the Fans!
+(2 Player Map)
+Resources: Heavy (Money crates, unit power-ups, gems, and gold)
+Environmental Conditions: Snow
+File: Xmas.mmx
+
+Features:
+This is Westwood's holiday gift to the fans. Players will find tons of goody crates, ore and gems on the Christmas tree in the center of the map. Also, gift crates spawn much quicker than normal maps.
+
+Tip: Just have fun!
+
+

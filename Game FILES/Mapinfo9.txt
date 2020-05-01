@@ -1,0 +1,55 @@
+** RED ALERT 2 MAP PACK #9
+** RELEASED 4/06/2001
+** COPYRIGHT 2001 ELECTRONIC ARTS INC.  ALL RIGHTS RESERVED.
+
+** INSTRUCTIONS **
+
+MAP PACK DOWNLOAD DIRECTIONS
+
+Step 1:  Double click on the free Map Pack of your choice.
+
+Step 2:  Choose "Save this program to disk". Click "Okay".
+
+Step 3:  Save the zipped file to C:\Westwood\RA2.  This is the default directory to which RA2 was originally installed. If you chose to install to a different directory, choose that one.
+
+Step 4:  Go to C:\Westwood\RA2 and locate the RA2MAPPAC file.  Double click it.
+
+Step 5:  Left click on "OK" and the click on "Unzip".  This will uncompress the file you just downloaded. Make sure you extract it into the RA2 directory.  If you chose the default install directory then this will be  \WESTWOOD\RA2\
+
+Step 6:  The process is complete. The new maps should automatically appear in Skirmish/Westwood Online/Local Area Network modes.
+
+
+******************************
+
+New Heights
+
+(2 Player Map)
+Resource: Moderate (oil derricks, gems and gold)
+Environmental Conditions: Urban, Tropics
+File: newheights.mmx
+
+Features: This small 2-player map is great for short battles and skirmishes. 
+
+Tip: Garrison buildings quickly, use these to defend your base and advance your territory. 
+
+Valley of Gems
+
+(2-4 Player Map)
+Resource: Moderate (oil derricks, gems and gold)
+Environmental Conditions: Island
+File: valley.mmx
+
+Features: Valley of Gems is rich with a vast amount of wealth. Players should have no problem building up large ground and Naval forces to battle their opponents.
+
+Tip: Be sure to direct your miners to the gem fields first. Out producing your opponent and overtaking his base will be a snap.
+
+Death Trap
+
+(2-8 Player Map)
+Resource: Moderate (oil derricks, gems, and gold)
+Environmental Conditions: Island
+File: death.mmx
+
+Features: This tropical paradise is full of wealth and real estate. This will be a great opportunity to assault your opponent from both ground and sea.
+
+Tip: Build dogs and scout ASAP, knowing your opponent's position is vital on a map of this size.

@@ -1,0 +1,38 @@
+** YURI'S REVENGE RULES MODIFICATION
+** RELEASED 2004/02/04
+** COPYRIGHT 2004 MASTERPLAN INTELLIGENCE THE NETHERLANDS.
+
+** INSTRUCTIONS **
+
+Use the 'rulesmd.bat' to enable or disable the rules MOD.
+There should be a shortcut to this file in your StartMenu.
+By default the MOD is ENABLED!!!
+
+
+******************************
+RULE CHANGES
+
+Prism Tank
+
+The sight is reduced to 6.
+(Default: Sight=8)
+
+
+Rocketeer
+
+The Cost of this unit has been increased to 700.
+(Default: Cost=600)
+
+
+Harrier
+
+This allied airunit is now invisible on radar.
+(Default: RadarInvisible=no)
+
+
+Kirov Airship
+
+The speed has been increased to 6.
+(Default: Speed=5).
+
+******************************

@@ -1,0 +1,48 @@
+** RED ALERT 2 MAP PACK #1
+** RELEASED 12/18/2000
+** COPYRIGHT 2000 ELECTRONIC ARTS INC.  ALL RIGHTS RESERVED.
+
+** INSTRUCTIONS **
+
+Simply copy the 3 maps included in this zip into the directory in which you installed Red Alert 2.  (You should find several other .MMX files in this directory as well.)  After installation, load Red Alert 2 and check the list of maps available to you in multiplayer.
+
+******************************
+
+Deadman's Ridge 
+
+(2 Player Map)
+Heavy Resources (oil derricks and gold)
+Environment Conditions: Temperate
+File: Deadman.mmx
+
+Features:
+A giant canyon that contains oil derricks and various patches of gold separates players. A concrete bridge has been centered in the map to connect both sides. 
+
+Tip: Fortifying captured oil derricks will help to ensure victory.
+
+
+Rockets Red Glare
+
+(2-4 Player Map)
+Medium Resources (Gold with some Oil Derricks)
+Environment: Urban
+File: Rockets.mmx
+
+Features:
+Players will find skyscrapers, houses, and a drive-in movie theater on this map. Resources are going to be tight so plan your build cue efficiently. 
+
+Tip: Garrisoned buildings will vital in protecting your assets. 
+
+
+Oceanside
+
+(2-4 Player Map)
+Heavy Resources (Gold, Gems, and Oil Derricks)
+Endowment: Semi Urban with Water
+File: Oceansid.mmx
+
+Features:
+Players will find themselves starting on landmasses surrounded by water. There is a series of bridges connecting these land masses and must be destroyed is Naval ships are to pass by. Oil Derricks can also be found scattered on islands through the maps. 
+
+Tip: Amphibious transports are the only means to transport any type of ground force to your opponents' base, guard them well. 
+

@@ -1,0 +1,55 @@
+** RED ALERT 2 MAP PACK #8
+** RELEASED 3/23/2001
+** COPYRIGHT 2001 ELECTRONIC ARTS INC.  ALL RIGHTS RESERVED.
+
+** INSTRUCTIONS **
+
+MAP PACK DOWNLOAD DIRECTIONS
+
+Step 1:  Double click on the free Map Pack of your choice.
+
+Step 2:  Choose "Save this program to disk". Click "Okay".
+
+Step 3:  Save the zipped file to C:\Westwood\RA2.  This is the default directory to which RA2 was originally installed. If you chose to install to a different directory, choose that one.
+
+Step 4:  Go to C:\Westwood\RA2 and locate the RA2MAPPAC file.  Double click it.
+
+Step 5:  Left click on "OK" and the click on "Unzip".  This will uncompress the file you just downloaded. Make sure you extract it into the RA2 directory.  If you chose the default install directory then this will be  \WESTWOOD\RA2\
+
+Step 6:  The process is complete. The new maps should automatically appear in Skirmish/Westwood Online/Local Area Network modes.
+
+
+******************************
+
+Powder Keg
+
+(2-8 Player Island Map)
+Resource: Moderate (gems and gold)
+Environmental Conditions: Urban
+File: powdrkeg.mmx
+
+Features: This 8-player map was created for those who enjoy the art of urban combat. Players will find vacant buildings all through out the map with a stockpile of gems in the center.
+
+Tip: Garrison buildings quickly, use these to defend your base and advance your territory. Money will be precious, spend wisely.
+
+Dust Bowl
+
+(2 Player Map)
+Resource: Moderate (oil derricks and gold)
+Environmental Conditions: Desert
+File: dustbowl.mmx
+
+Features: Set in the small mining town of Gold Strike, players will find a moderate supply of gold ore, oil, and cows surrounding each of the starting points. Be careful, as the town's folk of Gold Strike do not take kindly to strangers.
+
+Tip: Luckily most of the town folk are outside, so their homes are left undefended, ripe for troops to garrison. This is a fast head to head map, so think ahead!
+
+Tower of Power
+
+(2-4 Player Map)
+Resource: Moderate (oil derricks, gems, and gold)
+Environmental Conditions: Desert
+File: tower.mmx
+
+Features: This map was designed for battle. Each player will start out in one of the 4 corners of the map. Located in the center, players will find perfect space well suited for base production. The best part, the spot is located on a hill and surrounded by a moat. Your opponents will have a difficult time moving ground forces towards you if properly defended.
+
+Tip: Move engineers quickly to the center of the map and capture the oil derricks. Once secure and defenses are constructed, move the rest of your base and begin your assault.

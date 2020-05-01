@@ -1,0 +1,44 @@
+** RED ALERT 2 MAP PACK #11
+** RELEASED 5/4/2001
+** COPYRIGHT 2001 ELECTRONIC ARTS INC.  ALL RIGHTS RESERVED.
+
+** INSTRUCTIONS **
+
+MAP PACK DOWNLOAD DIRECTIONS
+
+Step 1:  Double click on the free Map Pack of your choice.
+
+Step 2:  Choose "Save this program to disk". Click "Okay".
+
+Step 3:  Save the zipped file to C:\Westwood\RA2.  This is the default directory to which RA2 was originally installed. If you chose to install to a different directory, choose that one.
+
+Step 4:  Go to C:\Westwood\RA2 and locate the RA2MAPPAC file.  Double click it.
+
+Step 5:  Left click on "OK" and the click on "Unzip".  This will uncompress the file you just downloaded. Make sure you extract it into the RA2 directory.  If you chose the default install directory then this will be  \WESTWOOD\RA2\
+
+Step 6:  The process is complete. The new maps should automatically appear in Skirmish/Westwood Online/Local Area Network modes.
+
+
+******************************
+
+Pacific Heights
+
+(4 Player Map)
+Resource: Moderate (oil derricks, gems and gold)
+Environmental Conditions: Semi-Urban, Tropics
+File: pacific.mmx
+
+Features: Pacific is great map with tons of real estate for expansion. Players will find plenty of civilian buildings to oil derricks to capture. 
+
+Tip: Destroy the bridges connecting your area to the rest of the map. It will make an air offensive much easier. 
+
+Killer Instinct
+
+(3 Player Map)
+Resource: Heavy (oil derricks, gems, and gold)
+Environmental Conditions: Island
+File: killer.mmx
+
+Features: Killer Instinct is designed for players with short games in mind. The island is small with 3 starting locations on the outskirts and an airfield in the center. 
+
+Tip: An engineer rush should be pretty easy to execute, but better be careful and watch your back.

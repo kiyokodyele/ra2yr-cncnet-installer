@@ -1,0 +1,60 @@
+** RED ALERT 2 MAP PACK #5
+** RELEASED 2/09/2001
+** COPYRIGHT 2001 ELECTRONIC ARTS INC.  ALL RIGHTS RESERVED.
+
+** INSTRUCTIONS **
+
+MAP PACK DOWNLOAD DIRECTIONS
+
+Step 1:  Double click on the free Map Pack of your choice.
+
+Step 2:  Choose "Save this program to disk". Click "Okay".
+
+Step 3:  Save the zipped file to C:\Westwood\RA2.  This is the default directory to which RA2 was originally installed. If you chose to install to a different directory, choose that one.
+
+Step 4:  Go to C:\Westwood\RA2 and locate the RA2MAPPAC file.  Double click it.
+
+Step 5:  Left click on "OK" and the click on "Unzip".  This will uncompress the file you just downloaded. Make sure you extract it into the RA2 directory.  If you chose the default install directory then this will be  \WESTWOOD\RA2\
+
+Step 6:  The process is complete. The new maps should automatically appear in Skirmish/Westwood Online/Local Area Network modes.
+
+
+******************************
+
+Bay of Pigs
+
+(2-6 Player Map)
+Resource: Moderate (oil derricks, gems, and gold)
+Environmental Conditions: Temperate island/semi urban
+File: bayopigs.mmx
+
+Features: 
+Bay of Pigs take place on a large tropical island set with many civilian structures and bunkers for players to garrison. Oil derricks and gold are spread moderately through out the map.
+
+Tip: Garrison the buildings around your base quickly; it will help to prevent early scouting of your base and Terror Drones attacks. Also, do not forget to build a Navy. This map is ideal for Naval battles.
+
+Russian Roulette
+(2-8 Player Map)
+Resource: Moderate (oil derricks, gems, and gold)
+Environmental Conditions: Snow
+File: roulette.mmx
+
+Features:
+Russian Roulette is an extremely large map set in the Siberian Tundra. Two airfields are located in the center, with a few oil derricks in the vicinity.
+
+Tip: Maneuver troops quickly to the airbases located in the center of the map. Troop reinforcement will be crucial to holding on to these valued structures. 
+
+
+Tanya's Training Ground
+(2-4 Player Map)
+Resources: moderate (oil derricks, gems, and gold)
+Environmental Conditions: Temperate
+File: Tanyas.mmx
+
+Features:
+This is one of Tanya's secret locations for training her Special Forces team. Players will find an abandon Air force Command Center located at the top of the mountain in the center of the map. Oil derricks can be found on the outer edges away from the main battlefield.
+
+Tip: Tanya is no fool, and has requested the structures placed strategically in the area. Money is scare so it will be a smart decision to allocate funds to both offense and defense. Good luck!
+
+
+

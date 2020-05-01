@@ -1,0 +1,45 @@
+** RED ALERT 2 MAP PACK #4
+** RELEASED 1/26/2001
+** COPYRIGHT 2000 ELECTRONIC ARTS INC.  ALL RIGHTS RESERVED.
+
+** INSTRUCTIONS **
+
+Simply copy the 3 maps included in this zip into the directory in which you installed Red Alert 2.  (You should find several other .MMX files in this directory as well.)  After installation, load Red Alert 2 and check the list of maps available to you in multiplayer.
+
+******************************
+
+Brink of Disaster
+
+(2-4 Player Map)
+Resource: Moderate (oil derricks, gems, and gold)
+Environmental Conditions: Snow
+File: disaster.mmx
+
+Features: 
+This map is set in a small town located in the mountains of Colorado. Players will find a moderate spread of gold and gems scattered across the map. Bases are by protected by rocky cliffs with limited access.
+
+Tip: Setup defenses around the entry points into your base. Your opponents will have a difficult time scouting you if they can't get in.
+
+Arena
+(2-4 Player Map)
+Resource: Very heavy (oil derricks, gems, and gold)
+Environmental Conditions: Urban
+File: arena.mmx
+
+Features:
+This map is designed with players starting an elevation higher than the rest of the city. There is one entry point into each of the bases, which can be easily defended. In the center of the map players will find a stadium surrounded by a huge wealth of gems. Airfields and oil derricks are also scattered about the map.
+
+Tip: Fortify the entry point of your base by using your infantry to garrison the bunkers. Once secure, garrison the surrounding buildings to ensure safety from Terror Drones and tanks.
+
+Shrapnel Mountain 
+(2-4 Player Map)
+Resources: moderate (oil derricks, gems, and gold)
+Environmental Conditions: Snow
+File: shrapnel.mmx
+
+Features:
+Shrapnel Mountain features four unique starting points that can only be accessed by bridges. In the center of the map, players will find an airfield and oil derricks ripe for the taking.
+
+Tip: Quickly secure the airfield located in the center map. Once secure, build a barracks and produce engineers and take over the nearby oil derricks. 
+
+

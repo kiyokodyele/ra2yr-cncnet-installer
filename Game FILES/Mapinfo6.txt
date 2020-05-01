@@ -1,0 +1,59 @@
+** RED ALERT 2 MAP PACK #6
+** RELEASED 2/23/2001
+** COPYRIGHT 2001 ELECTRONIC ARTS INC.  ALL RIGHTS RESERVED.
+
+** INSTRUCTIONS **
+
+MAP PACK DOWNLOAD DIRECTIONS
+
+Step 1:  Double click on the free Map Pack of your choice.
+
+Step 2:  Choose "Save this program to disk". Click "Okay".
+
+Step 3:  Save the zipped file to C:\Westwood\RA2.  This is the default directory to which RA2 was originally installed. If you chose to install to a different directory, choose that one.
+
+Step 4:  Go to C:\Westwood\RA2 and locate the RA2MAPPAC file.  Double click it.
+
+Step 5:  Left click on "OK" and the click on "Unzip".  This will uncompress the file you just downloaded. Make sure you extract it into the RA2 directory.  If you chose the default install directory then this will be  \WESTWOOD\RA2\
+
+Step 6:  The process is complete. The new maps should automatically appear in Skirmish/Westwood Online/Local Area Network modes.
+
+
+******************************
+
+Streets of Gold
+
+(2-6 Player Map)
+Resource: Moderate (oil derricks, gems, and gold)
+Environmental Conditions: Urban
+File: goldst.mmx
+
+Features: 
+Players will find gems and gold ore spread all through out the map in various patches. Also this map contains a large waterway to move ships and supplies to various parts of the map. 
+
+Tip: Garrison the buildings around your base quickly; it will help to prevent early scouting of your base and Terror Drones attacks. Build a Navy! Aircraft carriers and Dreadnaughts will make a great addition to any ground force prepped for invasion.
+
+Tsunami
+(2-4 Player Island Map)
+Resource: Moderate (oil derricks and gold)
+Environmental Conditions: Tropical
+File: tsunami.mmx
+
+Features:
+Each player will start off on his or her own private island (4 total). This is a great map for those that like to have long naval battles.
+
+Tip: Money will be consumed quickly, make sure you monitor your resources and don't over spend. It will be crucial to build Naval ships immediately and secure the islands perimeter.
+
+Yuri's Plot
+(2-4 Player Island Map)
+Resources: moderate (oil derricks, gems, and gold)
+Environmental Conditions: Tropical
+File: yuriplot.mmx
+
+Features:
+Yuri and his elite PSI core have set up a base of operations on this tropical island getaway. Many unsuspecting civilians are scattered about the map, unaware of the war about to be waged on their holiday/vacation turf.
+
+Tip: Garrison the resort hotels as soon as possible; they will help to defend key positions on the map. Also, Yuri has left an undefended Psychic Beacon and Satellite uplink in the center of the map. Use Engineers and capture these quickly.
+
+
+
